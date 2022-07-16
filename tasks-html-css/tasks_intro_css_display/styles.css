@@ -1,12 +1,9 @@
 div {
-    display: inline-block;
-  
+  display: inline-block;
 }
 span {
-    display: inline-block;
-    margin: 5px;
-    width: 200px;
-    height: 100px;
-    background-color: yellow;
-    
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
 }
